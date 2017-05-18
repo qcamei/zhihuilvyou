@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "cars": [],
+      "title": "A"
+    },
+    {
+      "cars": [
+        {
+          "sectionid":1,
+          "rowid":0,
+          "mail": true,
+          "name": "巴博斯" 
+          
+        },
+        {
+          "sectionid":1,
+          "rowid":1,
+          "mail": true,
+          "name": "宝骏"
+        },
+        {
+          "sectionid":1,
+          "rowid":2,
+          "mail": true,
+          "name": "宝马"
+        },
+        { 
+          "sectionid":1,
+          "rowid":3 ,
+          
+          "mail": true,
+          "name": "保时捷"
+        },
+        {
+           "sectionid":1,
+          "rowid":4,
+          "mail": true,
+          "name": "北京汽车"
+        },
+        {
+           "sectionid":1,
+          "rowid":5,
+          "mail": true,
+          "name": "北汽幻速"
+        },
+        {
+           "sectionid":1,
+          "rowid":6,
+          "mail": true,
+          "name": "北汽威旺"
+        },
+        {
+            "sectionid":1,
+          "rowid":7,
+          "mail": true,
+          "name": "北汽制造"
+        },
+        { "sectionid":1,
+          "rowid":8,
+          
+          "mail": false,
+          "name": "奔驰"
+        },
+        {
+          "sectionid":1,
+          "rowid":9,
+          "mail": true,
+          "name": "奔腾"
+        },
+        {
+           "sectionid":1,
+          "rowid":10,
+          "mail": true,
+          "name": "本田"
+        },
+        {
+            "sectionid":1,
+          "rowid":11,
+          "mail": true,
+          "name": "标致"
+        },
+        {
+           "sectionid":1,
+          "rowid":12,
+          "mail": true,
+          "name": "别克"
+        },
+        {
+           "sectionid":1,
+          "rowid":13,
+          "mail": false,
+          "name": "宾利"
+        },
+        {
+           "sectionid":1,
+          "rowid":14,
+          "mail": false,
+          "name": "比亚迪"
+        },
+        {  "sectionid":1,
+          "rowid":15,
+          "mail": false,
+          "name": "布加迪"
+        }
+      ],
+      "title": "B"
+    },
+    {
+      "cars": [],
+      "title": "C"
+    },
+    {
+      "cars": [],
+      "title": "D"
+    },
+    {
+      "cars": [],
+      "title": "F"
+    },
+    {
+      "cars": [],
+      "title": "G"
+    },
+    {
+      "cars": [],
+      "title": "H"
+    },
+    {
+      "cars": [],
+      "title": "J"
+    },
+    {
+      "cars": [],
+      "title": "K"
+    },
+    {
+      "cars": [],
+      "title": "L"
+    },
+    {
+      "cars": [],
+      "title": "M"
+    },
+    {
+      "cars": [],
+      "title": "N"
+    },
+    {
+      "cars": [],
+      "title": "O"
+    },
+    {
+      "cars": [],
+      "title": "Q"
+    },
+    {
+      "cars": [],
+      "title": "R"
+    },
+    {
+      "cars": [],
+      "title": "S"
+    },
+    {
+      "cars": [],
+      "title": "T"
+    },
+    {
+      "cars": [],
+      "title": "W"
+    },
+    {
+      "cars": [],
+      "title": "X"
+    },
+    {
+      "cars": [],
+      "title": "Y"
+    },
+    {
+      "cars": [],
+      "title": "Z"
+    }
+  ]
+}

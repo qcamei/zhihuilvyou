@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">智慧胡里山</string>
+    <string name="codepush_key">CuPpIHqbo6M-F1NpBdxyGmNVATZ341mBqxc_G</string>
+</resources>
